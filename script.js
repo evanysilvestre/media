@@ -1,7 +1,7 @@
 const body = document.querySelector(`body`);
 body.style.height = `100vh`;
 body.style.width = `100vw`;
-body.style.backgroundImage = `url(/assets/backgroud.jpg)`
+body.style.backgroundImage = `url(assets/backgroud.jpg)`
 body.style.backgroundSize = `cover`
 body.style.display = `flex`
 body.style.justifyContent = `center`
